@@ -9,5 +9,7 @@ int main(void){
 	int b = 6;
 	int c = 7;
 	printf("%d\n", b + c);
+    printf("Hello World!\n");
+    printf("If you want to learn something ,try it!\n");
     return 0;
 }
