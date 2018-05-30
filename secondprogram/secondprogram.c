@@ -11,5 +11,6 @@ int main(void){
 	printf("%d\n", b + c);
     printf("Hello World!\n");
     printf("If you want to learn something ,try it!\n");
+    printf("在我心中，曾经有一个梦，要让歌声让你忘了所有的痛！\n");
     return 0;
 }
