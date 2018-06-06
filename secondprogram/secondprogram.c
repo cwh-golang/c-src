@@ -12,5 +12,7 @@ int main(void){
     printf("Hello World!\n");
     printf("If you want to learn something ,try it!\n");
     printf("在我心中，曾经有一个梦，要让歌声让你忘了所有的痛！\n");
+    printf("How do you do!\n");
+    printf("//how do you do \n");
     return 0;
 }
