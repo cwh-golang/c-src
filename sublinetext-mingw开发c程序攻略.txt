@@ -8,8 +8,14 @@
    命令行中编译运行程序；
 3、如果嫌弃cmd界面不爽，可以使用git bash界面进行命令行的输入/程序的编译
    和运行，可以借此机会熟悉GitHub的相关操作和Linux shell的命令操作。
- 
-4、哈哈哈
+
+使用git bash命令进行 GitHub管理
+1、在GitHub的官网上进行用户注册；
+2、安装GitHub Desktop，在GitHub的官网上有安装包
+3、安装gitbash进行秘钥的管理，详细步骤参照：
+   git bash安装和基本设置：https://www.cnblogs.com/jasonxu19900827/p/7823089.html
+
+
   
    
    
