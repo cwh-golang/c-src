@@ -23,7 +23,11 @@ int main(int argc, char const *argv[])
 	printf("%u\n", k);
 	printf("%d,%c\n", 63,63);
 	printf("%d,%c\n", 128,128);
-	char k_char = 254;
+	char k_char = 40;
+	k_char *= 10;
+	// k_char = (char)400;
 	printf("%d,%c\n", k_char,k_char);
+	printf("%d\t,%c\n", k_char,k_char);
+	
 	return 0;
 }
