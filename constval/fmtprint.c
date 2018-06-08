@@ -16,6 +16,19 @@ int main(int argc, char const *argv[])
 	printf("%f\n", a); //33.333344
 	printf("%f\n", b);//33.3333333
 	printf("%x\n", 12345);
+	printf("%%%%%%%%%\n");//print more %
+	
+	putchar('a');
+	putchar('\n');
+	char a_char;
+	a_char = getchar();
+	putchar(a_char); 
+	putchar('\n');
+	putchar(getchar());
+	putchar('\n');
+	putchar(getchar()+32);
+	putchar('\n');
+
 	
 	
 	return 0;
