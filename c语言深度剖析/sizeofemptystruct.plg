@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sizeofemptystruct - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\David\AppData\Local\Temp\RSPFC8B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/sizeofemptystruct.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c"
+]
+Creating command line "cl.exe @C:\Users\David\AppData\Local\Temp\RSPFC8B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+sizeofemptystruct.c
+D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c(6) : error C2059: syntax error : '}'
+D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c(11) : error C2065: 'stu' : undeclared identifier
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+sizeofemptystruct.obj - 2 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
