@@ -6,23 +6,19 @@
 --------------------Configuration: sizeofemptystruct - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating temporary file "C:\Users\David\AppData\Local\Temp\RSPFC8B.tmp" with contents
+Creating temporary file "C:\Users\David\AppData\Local\Temp\RSPEB1B.tmp" with contents
 [
-/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/sizeofemptystruct.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c"
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/sizeofemptystruct.pdb" /debug /machine:I386 /out:"Debug/sizeofemptystruct.exe" /pdbtype:sept 
+".\Debug\sizeofemptystruct.obj"
 ]
-Creating command line "cl.exe @C:\Users\David\AppData\Local\Temp\RSPFC8B.tmp" 
+Creating command line "link.exe @C:\Users\David\AppData\Local\Temp\RSPEB1B.tmp"
 <h3>Output Window</h3>
-Compiling...
-sizeofemptystruct.c
-D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c(6) : error C2059: syntax error : '}'
-D:\c-code\c-src\c”Ô—‘…Ó∂»∆ Œˆ\sizeofemptystruct.c(11) : error C2065: 'stu' : undeclared identifier
-Error executing cl.exe.
+Linking...
 
 
 
 <h3>Results</h3>
-sizeofemptystruct.obj - 2 error(s), 0 warning(s)
+sizeofemptystruct.exe - 0 error(s), 0 warning(s)
 </pre>
 </body>
 </html>
