@@ -1,0 +1,38 @@
+
+华为c语言编程规范里面推荐：
+
+缩写：
+argument 可缩写为 arg
+buffer 可缩写为 buff
+clock 可缩写为 clk
+command 可缩写为 cmd
+compare 可缩写为 cmp
+configuration 可缩写为 cfg
+device 可缩写为 dev
+error 可缩写为 err
+hexadecimal 可缩写为 hex
+increment 可缩写为 inc、
+initialize 可缩写为 init
+maximum 可缩写为 max
+message 可缩写为 msg
+minimum 可缩写为 min
+parameter 可缩写为 para
+previous 可缩写为 prev
+register 可缩写为 reg
+semaphore 可缩写为 sem
+statistic 可缩写为 stat
+synchronize 可缩写为 sync
+temp 可缩写为 tmp
+
+正反意词：
+add/remove 	            begin/end 	       create/destroy
+insert/delete           first/last         get/release
+increment/decrement     put/get            add/delete
+lock/unlock             open/close         min/max
+old/new                 start/stop         next/previous
+source/target           show/hide          send/receive
+source/destination      copy/paste         up/down
+set/clear
+
+
+
