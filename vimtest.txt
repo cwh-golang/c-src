@@ -1,0 +1,5 @@
+this is a vimest file !
+And i am learning how to use vim!
+Thank you! 
+Ok ,I enter in the Insert Mode by pressing 'a';
+there about for ways to enter the Insert Mode!
